@@ -1,7 +1,7 @@
 import CardImg1 from "./images/img1.png";
 import CardImg2 from "./images/img2.png";
 
-
+console.log('push');
 import {
   Logo,
   HomeIcon,
